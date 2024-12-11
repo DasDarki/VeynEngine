@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeynEngine", "VeynEngine\VeynEngine.csproj", "{6E1A15FF-D44C-462D-B53E-266761A2A030}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeynExample", "VeynExample\VeynExample.csproj", "{CE433C71-1FF9-415A-B44A-597C48BDE710}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E1A15FF-D44C-462D-B53E-266761A2A030}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E1A15FF-D44C-462D-B53E-266761A2A030}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E1A15FF-D44C-462D-B53E-266761A2A030}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E1A15FF-D44C-462D-B53E-266761A2A030}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE433C71-1FF9-415A-B44A-597C48BDE710}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE433C71-1FF9-415A-B44A-597C48BDE710}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE433C71-1FF9-415A-B44A-597C48BDE710}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE433C71-1FF9-415A-B44A-597C48BDE710}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
